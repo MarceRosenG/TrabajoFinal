@@ -38,3 +38,9 @@ body {
   }
 
 }
+
+/* Centrar trabajos */
+.card { 
+ flex-grow: 1;
+
+}
